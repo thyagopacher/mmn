@@ -3,4 +3,6 @@ script para piramide, com manual de instalação em PHP muito fácil de instalar
 
 # instalação
 
-Descompacte o arquivo admin.7z com o programa 7zip na raiz do site e após faça as configurações pedidas no arquivo .docx
+Manual:
+
+https://github.com/thyagopacher/mmn/blob/master/configura%C3%A7%C3%A3o%20e%20instala%C3%A7%C3%A3o%20do%20script.docx?raw=true
