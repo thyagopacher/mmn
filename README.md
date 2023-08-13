@@ -1,3 +1,7 @@
+#Não conseguiu instalar...
+
+Não me procure... o script é somente um exemplo, use a vontade e estude. Não tenho nenhum interesse em negócios de piramide em nenhuma ocasião.
+
 # mmn
 script para piramide, com manual de instalação em PHP muito fácil de instalar
 
